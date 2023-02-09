@@ -1,0 +1,20 @@
+html{
+    background-color: gray ;
+}
+body{
+    background-color: white;
+    width:800px;
+    height: 800px;
+}
+.d{
+    width:800px;
+    height:100px;
+}
+.f{
+    width:100px;
+    height:100px;
+    float: left;
+}
+.j{
+    background-color: black;
+}
